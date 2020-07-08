@@ -1,0 +1,3 @@
+This project is oriented towards the estimation of GDP of China from the year 1970. 
+Non-linear regression is deployed to study the growth and the r2 score is found out to be 0.97
+The .ipynb file provides complete code written for the analysis. 
